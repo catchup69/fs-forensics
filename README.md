@@ -1,7 +1,11 @@
-# Dos caminos para poner al día tu Factusol
+# FS Forensics Database
 
-Comparativa entre el camino oficial de Factusol (importador y actualizador) y el método de Bendición para poner al día bases de Factusol, de 2006 a la versión que elijas (2017–2026), sin perder datos y sin tocar el original.
+Análisis forense de bases de datos de FactuSOL y GestorSOL, y **Bendición**: llevar una base a la versión que elijas, de 2006 a 2026, sin tocar el original.
 
-**Ver la página:** https://catchup69.github.io/bendicion-comparativa/
+- Identifica la versión real de una base por su estructura y detecta por qué versiones ha pasado.
+- Bendición: elige qué llevar (clientes, proveedores, artículos, facturas, cobros, almacén…) y a qué versión.
+- Recuento antes y después, informe y sello de calidad. Siempre sobre una copia.
 
-Factusol es una marca de su propietario. Este proyecto es independiente y no está afiliado a él.
+**Ver la página y el vídeo:** https://catchup69.github.io/bendicion-comparativa/
+
+FactuSOL y GestorSOL son marcas de Software DELSOL. FS Forensics es un desarrollo independiente, sin relación con Software DELSOL.
